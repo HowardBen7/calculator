@@ -14,8 +14,10 @@ This is a simple calculator application developed in Java with a Graphical User 
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/YourUsername/calculator.git  
+git clone https://github.com/YourUsername/calculator.git 
+```
 Replace YourUsername with your GitHub username.
+
 
 ## Open the Project in an IDE
 Open your IDE.
